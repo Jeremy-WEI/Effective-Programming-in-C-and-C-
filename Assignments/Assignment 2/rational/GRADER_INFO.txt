@@ -1,0 +1,2 @@
+PROG: rational
+LANG: C++
